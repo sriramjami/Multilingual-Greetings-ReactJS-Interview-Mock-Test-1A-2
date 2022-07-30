@@ -1,0 +1,17 @@
+.button {
+  background-color: white;
+  color: #db1c48;
+  height: 30px;
+  font-size: 14px;
+  width: 70px;
+  font-weight: 600;
+  border: 1px solid #db1c48;
+  border-radius: 20px;
+}
+.activeCls {
+  background-color: #db1c48;
+  color: white;
+}
+.item {
+  margin-right: 10px;
+}
